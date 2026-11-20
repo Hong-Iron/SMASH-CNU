@@ -1,0 +1,34 @@
+{
+ "region": "대전 유성구 궁동",
+ "nameEn": "Chungnam National University",
+ "added": "2026-10-24",
+ "rank": 9,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KAIST",
+   "campus": "KAIST 대전 본원",
+   "km": 1.3
+  },
+  {
+   "code": "KBTUS",
+   "campus": "한국침례신학대학교",
+   "km": 2.6
+  },
+  {
+   "code": "DDU",
+   "campus": "대덕대학교",
+   "km": 2.8
+  },
+  {
+   "code": "HANBAT",
+   "campus": "국립한밭대학교",
+   "km": 4.6
+  },
+  {
+   "code": "MOKWON",
+   "campus": "목원대학교",
+   "km": 5.1
+  }
+ ]
+}
